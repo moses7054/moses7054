@@ -1,63 +1,32 @@
-<div align="center">
-
-https://github.com/moses7054/moses7054/raw/main/4955252-uhd_3840_2160_25fps.mp4
-
-</div>
+[![Video Background](4955252-uhd_3840_2160_25fps.mp4)](https://github.com/moses7054)
 
 <h1 align="center">Hey, I'm Moses</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Developer+%7C+Creator+%7C+Learner;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</p>
+### Languages
 
-<br>
+![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
----
+### Starter Repos for Anchor
 
-## 🚀 Turbin Starter Repos
+[![](https://img.shields.io/badge/-🎯%20NFT%20Staking%20Starter-000)](https://github.com/moses7054/anchor-nft-staking-starter-q4-25)
+[![](https://img.shields.io/badge/-🖼%20MPL%20Core%20Starter-000)](https://github.com/moses7054/anchor-mplxcore-starter-q4-25)
+[![](https://img.shields.io/badge/-💱%20AMM%20Starter-000)](https://github.com/moses7054/anchor-amm-starter-q4-25)
+[![](https://img.shields.io/badge/-🏦%20Vault%20Starter-000)](https://github.com/moses7054/anchor-vault-starter-q4-25)
+[![](https://img.shields.io/badge/-🤝%20Escrow%20Starter-000)](https://github.com/moses7054/anchor-escrow-starter-q4-25)
 
-<div align="left">
+### Interesting repos i am working on
 
-| Repository     | Description | Tech Stack |
-| -------------- | ----------- | ---------- |
-| Coming soon... |             |            |
+[![](https://img.shields.io/badge/-⚡%20Agave-000)](https://github.com/moses7054/agave)
+[![](https://img.shields.io/badge/-🦀%20Rustlings%20Solved-000)](https://github.com/moses7054/rustlings-solved)
+[![](https://img.shields.io/badge/-⚓%20Anchor-000)](https://github.com/moses7054/anchor)
+[![](https://img.shields.io/badge/-🔧%20Learning%20eBPF-000)](https://github.com/moses7054/learning-ebpf)
 
-</div>
+### Books i am reading
 
----
+[![](https://img.shields.io/badge/-📕%20Rust%20for%20Rustaceans-000)](https://nostarch.com/rust-rustaceans)
+[![](https://img.shields.io/badge/-📘%20Learning%20eBPF-000)](https://www.oreilly.com/library/view/learning-ebpf/9781098135119/)
 
-## 💻 Repos I'm Working On
-
-<div align="left">
-
-| Project        | Status | Description |
-| -------------- | ------ | ----------- |
-| Coming soon... |        |             |
-
-</div>
-
----
-
-## 📚 Books I'm Reading
-
-<div align="left">
-
-| Title          | Author | Progress |
-| -------------- | ------ | -------- |
-| Coming soon... |        |          |
-
-</div>
-
----
-
-<div align="center">
-
-### 🌐 Connect with Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-moses7054-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moses7054)
-
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=moses7054&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile views">
-</div>
+<a href="https://github.com/moses7054"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=moses7054&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moses7054&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
