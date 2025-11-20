@@ -1,5 +1,3 @@
-[![Video Background](4955252-uhd_3840_2160_25fps.mp4)](https://github.com/moses7054)
-
 <h1 align="center">Hey, I'm Moses</h1>
 
 ### Languages
