@@ -1,49 +1,61 @@
 <div align="center">
-  <img src="undefined - Imgur.gif" alt="Background" width="100%" style="border-radius: 10px;">
+  <img src="undefined - Imgur.gif" alt="Header" width="100%">
 </div>
 
-<div align="center" style="background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('undefined - Imgur.gif'); background-size: cover; padding: 50px; color: white;">
+<h1 align="center">👋 Hey, I'm Moses</h1>
 
-# <span style="color: white;">✨ Moses ✨</span>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Developer+%7C+Creator+%7C+Learner;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</p>
+
+<br>
+
+---
+
+## 🚀 Turbin Starter Repos
+
+<div align="left">
+
+| Repository | Description | Tech Stack |
+|------------|-------------|------------|
+| Coming soon... | | |
 
 </div>
 
 ---
 
-## <span style="color: white;">🚀 Turbin Starter Repos</span>
+## 💻 Repos I'm Working On
 
-<div style="color: white;">
+<div align="left">
 
-- Coming soon...
-
-</div>
-
----
-
-## <span style="color: white;">💻 Repos I'm Working On</span>
-
-<div style="color: white;">
-
-- Coming soon...
+| Project | Status | Description |
+|---------|--------|-------------|
+| Coming soon... | | |
 
 </div>
 
 ---
 
-## <span style="color: white;">📚 Books I'm Reading</span>
+## 📚 Books I'm Reading
 
-<div style="color: white;">
+<div align="left">
 
-- Coming soon...
+| Title | Author | Progress |
+|-------|--------|----------|
+| Coming soon... | | |
 
 </div>
 
 ---
 
-<div align="center" style="color: white;">
+<div align="center">
 
-### <span style="color: white;">Connect with me</span>
+### 🌐 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-moses7054-181717?style=for-the-badge&logo=github)](https://github.com/moses7054)
+[![GitHub](https://img.shields.io/badge/GitHub-moses7054-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moses7054)
 
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=moses7054&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile views">
 </div>
