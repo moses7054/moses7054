@@ -1,16 +1,49 @@
-## Hi there 👋
+<div align="center">
+  <img src="undefined - Imgur.gif" alt="Background" width="100%" style="border-radius: 10px;">
+</div>
 
-<!--
-**moses7054/moses7054** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center" style="background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('undefined - Imgur.gif'); background-size: cover; padding: 50px; color: white;">
 
-Here are some ideas to get you started:
+# <span style="color: white;">✨ Moses ✨</span>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## <span style="color: white;">🚀 Turbin Starter Repos</span>
+
+<div style="color: white;">
+
+- Coming soon...
+
+</div>
+
+---
+
+## <span style="color: white;">💻 Repos I'm Working On</span>
+
+<div style="color: white;">
+
+- Coming soon...
+
+</div>
+
+---
+
+## <span style="color: white;">📚 Books I'm Reading</span>
+
+<div style="color: white;">
+
+- Coming soon...
+
+</div>
+
+---
+
+<div align="center" style="color: white;">
+
+### <span style="color: white;">Connect with me</span>
+
+[![GitHub](https://img.shields.io/badge/GitHub-moses7054-181717?style=for-the-badge&logo=github)](https://github.com/moses7054)
+
+</div>
